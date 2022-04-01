@@ -1,7 +1,7 @@
 {
   "name": "dbgate-plugin-wg-theme-dark",
   "description": "dracula inspired dark dbgate theme.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "Walison Gomes",
@@ -9,10 +9,14 @@
   },
   "keywords": [
     "dbgate",
-    "dbgateplugin"
+    "dbgateplugin",
+    "dbfatetheme",
+    "theme",
+    "dracula"        
   ],
   "files": [
-    "dist"
+    "dist",
+    "icon.svg"
   ],
   "scripts": {
     "build": "webpack --config webpack.config",

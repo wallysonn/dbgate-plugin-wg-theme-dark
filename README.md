@@ -3,4 +3,4 @@
 
 # dbgate-plugin-wg-theme-dark
 
-Use DbGate for install of this plugin
+dracula inspired dark dbgate theme.
