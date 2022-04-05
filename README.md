@@ -3,4 +3,9 @@
 
 # dbgate-plugin-wg-theme-dark
 
-dracula inspired dark dbgate theme.
+Inspirational dracula theme for DbGate. Like visual studio code, dbgate allows you to install plugins. Navigate in the side menu to plugins and search for dbgate-plugin-wg-theme-dark
+
+![WG-DarkTheme](https://i.imgur.com/VZSeCoc.png)  
+
+Download dbgate here: [click here to download](https://github.com/dbgate/dbgate/releases/)
+
