@@ -19,8 +19,8 @@ const theme = {
     --theme-bg-4: #484954;
     --theme-bg-alt: #21222c;
 
-    --theme-bg-gold: yellow; /* gold-2 */
-    --theme-bg-orange: #442a11; /*orange-2 */
+    --theme-bg-gold: #4c4c0c; /* gold-2 */
+    --theme-bg-orange: #7c6e14; /*orange-2 */
     --theme-bg-green: #1d3712; /* green-2 */
     --theme-bg-volcano: #441d12; /* volcano-2 */
     --theme-bg-red: #431418; /* red-2 */

@@ -1,7 +1,7 @@
 {
   "name": "dbgate-plugin-wg-theme-dark",
   "description": "dracula inspired dark dbgate theme. ![icon](https://raw.githubusercontent.com/wallysonn/dbgate-plugin-wg-theme-dark/master/icon.svg)",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "MIT",
   "author": {
     "name": "Walison Gomes",
